@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  height: 100vh;
+}
+.App video{
+  
+  object-fit: cover;
+    width: 100%;
+    height: 100%;
+    
+}
